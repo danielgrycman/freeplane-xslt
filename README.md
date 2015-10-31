@@ -66,6 +66,8 @@ Freeplane is available for Macintosh. I haven't tested the Mac version, but I'm 
 
 # Version history
 
+- **2015-10-30**
+  - Added asciidoctor exporter first draft as fork of markdown exporter
 - **2014-11-12**
   - Removed need to download Reveal.js separately
   - Level 3 and lower map nodes are shown as list items in Reveal.js
