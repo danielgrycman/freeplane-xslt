@@ -4,6 +4,11 @@
 
 Exporting content from FreePlane/FreeMind mindmapping tool format (XML-based, .mm) to different output formats.
 
+### mm2asciidoctor
+
+Export Freeplane/Freemind documents to asciidoctor
+  * First draft as a fork of mm2markdown
+
 ### mm2revealjs
 
 An XSLT transformation tool for creating slideshow presentations for the web with ease:
